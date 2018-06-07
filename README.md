@@ -21,9 +21,7 @@ Polimorfizm i abstrakcja:
 - nadpisywanie i/lub przesłanianie metod oraz właściwości.
 
 Agregacja, Kompozycja i Komunikacja:
-- składanie złożonych obiektów z innych obiektów - pojęcie obiektów.
-
-zagregowanych:
+- składanie złożonych obiektów z innych obiektów - pojęcie obiektów zagregowanych,
 - kolekcje obiektów,
 - komunikacja pomiędzy obiektami – użycie zmiennych obiektowych do komunikacji pomiędzy obiektami.
 
